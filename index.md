@@ -1,30 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome To my Personal Website
 
-You can use the [editor on GitHub](https://github.com/Faroop/Software_Engineer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Engineering student at the [University of Illinois]("http://www.uic.edu/research") and an aspiring Software developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have contributed to alot of open source projects, most of them being web development code, Api's and other Applications for daily, business or technology use. This site being one of them!! 
 
-### Markdown
+### Experience:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have extesive experience In computer science and networking. I am a Full-stack Software Developer. I have both knowledge and experience In programming language(s) that come In handy for Front-end Web development most commonly;(HTML, CSS, Javascript) and Back-end development;(PHP, Ruby, Python, Java, SQL, C++, Linux(limited). 
+
+### Education:
+
+Without this being a resume, I will breifly talk about my educational backgroud. I am a self learner which means I have accuired my skills from a number of places. I first started learning how to code in my community college with C++, Fortran, & Java in the linux command prompt. A series of courses turned into writing programs that were; Calculators, Function plotter's, andriod app's, and other applications. I loved it!! 
+
+Yes, Logic can be fun! :) 
 
 ```markdown
-Syntax highlighted code block
+To know more about me. Check me out at my other website....
 
-# Header 1
-## Header 2
-### Header 3
+[Linkedin]("https://www.linkedin.com/in/mudassir-sharif-3b564965) ![Image]("https://static.licdn.com/sc/h/95o6rrc5ws6mlw6wqzy0xgj7y") 
 
-- Bulleted
-- List
+[Twitter]("https://twitter.com/Mfsharif1") ![Twitter]("https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/154px-Twitter_bird_logo_2012.svg.png")
 
-1. Numbered
-2. List
+### Contact:
 
-**Bold** and _Italic_ and `Code` text
+To get a hold of me, email me @ msharif42@gmail.com
 
-[Link](url) and ![Image](src)
-```
+
+````
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
